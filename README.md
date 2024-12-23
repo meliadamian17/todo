@@ -2,6 +2,9 @@
 
 I wanted to have a reminder of what I want to do everytime i launch my terminal, so i made this.
 
+## Prerequisites
+- Go
+
 ## Installation
 Simply just run `./install.sh`
 This will place the todos.json into `$HOME/.config/todo` and move the built binary to `/bin` so you can run it.
